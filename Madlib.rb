@@ -17,28 +17,5 @@ def madlib
 
 end
 
-=begin
-def relative
-	
-	return " " + relative
-end
 
-def name 
-	
-	return " " + name
-end
-
-def verb
-	return " " + verb
-end
-
-def adjective
- 	return " " + adjective
-end
-
-def noun 
-	
-	return " " + noun
-end
-=end
 print madlib()
